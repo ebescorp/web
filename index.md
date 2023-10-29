@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, welcome to AE&SS Creative LLC, a REI'
+landing-title: 'Hi, welcome to EBES Corp'
 description: null
 image: null
 author: null
